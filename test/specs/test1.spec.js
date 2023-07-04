@@ -10,7 +10,7 @@ it('My First Test',async() => {
    ///console.log(value);
    await $('[name="btnK"]').click()
    //browser.keys('Enter')
-   browser.pause(2000)
+   browser.pause(4000)
 })
 
 })
